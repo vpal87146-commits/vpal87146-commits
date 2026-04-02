@@ -1,4 +1,4 @@
-<h2></h2> # Hello 👋 I'm Vaishnavi
+<h2></h2> # Hello 👋 I'm VAISHNAVI PAL
 
 ## 💻 Web Developer | Tech Enthusiast
 
@@ -6,7 +6,7 @@
 - 📧 Email: vpal87146@gmail.com
 
 ## 🚀 Skills
-HTML | CSS | JavaScript | Python </h2>
+JavaScript | HTML | CSS | Python </h2>
 
 ## 📊 GitHub Stats
 

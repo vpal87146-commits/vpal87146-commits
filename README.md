@@ -4,18 +4,16 @@
 
 - 📍 Based in Lucknow
 - 📧 Email: vpal87146@gmail.com
-
+- 💼 LinkedIn: https://linkedin.com/in/vaishnaviii-
 ## 🚀 Skills
 JavaScript | HTML | CSS | Python </h2>
 
 ## 📊 GitHub Stats
-
-###
-
+---
+## 📌 Projects
+- 📝 To-Do List App (JavaScript)
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-
-###
-
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

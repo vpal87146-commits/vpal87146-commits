@@ -12,7 +12,9 @@
   </a>
 </p>
 ## 🚀 Skills
+
 JavaScript | HTML | CSS | Python </h2>
+---
 ## 📌 Projects
 - 📝 To-Do List App (JavaScript)
 

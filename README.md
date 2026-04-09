@@ -1,25 +1,48 @@
-<h2> # Hello 👋 I'm VAISHNAVI PAL
+<div align="center">
 
-## 💻 Web Developer | Tech Enthusiast
+# Hello 👋 I'm Vaishnavi Pal
 
-- 📍 Based in Lucknow
+### 💻 Web Developer | Tech Enthusiast  
+📍 Lucknow, India
+</div>
 <p align="center">
-  <a href="https://linkedin.com/in/vaishnaviii-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vpal87146@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/vaishnaviii">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vpal87146@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 ## 🚀 Skills
 
-JavaScript | HTML | CSS | Python </h2>
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vpal87146&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpal87146&theme=tokyonight" />
+</p>
 ## 📌 Projects
-- 📝 To-Do List App (JavaScript)
+
+- 📝 [To-Do List App](https://github.com/vpal87146/your-repo-link)  
+  👉 Built using JavaScript with dynamic task management
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
+</p>
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode" />
+</p>
+## 👩‍💻 About Me
+
+- 🌱 Currently learning **Advanced JavaScript & Async Programming**
+- 💡 Interested in **Web Development & Problem Solving**
 
 ---
-<div align="left">
+<!--<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />

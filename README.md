@@ -3,13 +3,16 @@
 ## 💻 Web Developer | Tech Enthusiast
 
 - 📍 Based in Lucknow
-- 📧 Email: vpal87146@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/vaishnaviii-
+<p align="center">
+  <a href="https://linkedin.com/in/vaishnaviii-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vpal87146@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ## 🚀 Skills
 JavaScript | HTML | CSS | Python </h2>
-
-## 📊 GitHub Stats
----
 ## 📌 Projects
 - 📝 To-Do List App (JavaScript)
 

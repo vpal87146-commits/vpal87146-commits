@@ -26,8 +26,9 @@
 </p>
 ## 📌 Projects
 
-- 📝 [To-Do List App](https://github.com/vpal87146/your-repo-link)  
+- 📝 [To-Do List App](https://github.com/vpal87146-commits/To-do-list-JavaScript)  
   👉 Built using JavaScript with dynamic task management
+
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
 </p>
